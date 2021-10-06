@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MidtermSamples</string>
+    <string name="game_txt">Red Light,  Green Light</string>
+    <string name="gameOver_txt">Game Over</string>
+    <string name="stop_txt">Stop</string>
+    <string name="ready_txt">Ready</string>
+    <string name="go_txt">Go</string>
+    <string name="red_btn">Red</string>
+    <string name="yellow_btn">Yellow</string>
+    <string name="green_btn">Green</string>
 </resources>
